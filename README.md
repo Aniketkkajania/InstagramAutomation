@@ -22,4 +22,9 @@ The Part 2 of automation contains the functions related to analyzing the behavio
 
 HERE ARE THE LIST OF FUNCTIONS IN PART TWO OF INSTAGRAM AUTOMATION:
 1. FOLLOWERS COUNT FUNCTION: This function counts the number of followers of the top 5 user_names that comes on the screen when we search for the certain text in text field.
-2. 
+2. POSTS COUNT FUNCTION: This function counts the number of posts the user have did in the past 3 days. You can modify the code as per your wish i have used 5 user_handles for this function to get the posts count of 5 users done in past 3 days. Instead of 5 just pass the one user_name.
+3. HASHTAGS FUNCTION: This function extracts the list of all hastags the user have used in his past 30 posts.
+4. hash_tags_count Function: This function just find how many times a user have used a particular hashtags extracted in previous function.
+5. Followers_likes Function: This function extracts the average likes of top 10 posts of the user along with the number of followers he/she have.
+
+I Have plotted some insights from the data we extracted from the automation. Make Sure to check them out.
