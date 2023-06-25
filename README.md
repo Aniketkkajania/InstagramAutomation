@@ -17,3 +17,9 @@ HERE ARE THE LIST OF FUNCTIONS IN PART ONE OF INSTAGRAM AUTOMATION:
 7. CHECK STORY FUNCTION: This function checks the story of given user_name and if you have already have seen the story it will return a text that you have already seen the story.
 
    
+**PART2**
+The Part 2 of automation contains the functions related to analyzing the behaviours of a user_handle.
+
+HERE ARE THE LIST OF FUNCTIONS IN PART TWO OF INSTAGRAM AUTOMATION:
+1. FOLLOWERS COUNT FUNCTION: This function counts the number of followers of the top 5 user_names that comes on the screen when we search for the certain text in text field.
+2. 
